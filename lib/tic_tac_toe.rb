@@ -100,6 +100,7 @@ class TicTacToe
   until over? == false
   turn
 end
+end
  
 
 
